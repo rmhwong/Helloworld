@@ -10,6 +10,7 @@ package helloworld;
  * @author student
  */
 public class Helloworld {
+    private String abc;
 
     /**
      * @param args the command line arguments
