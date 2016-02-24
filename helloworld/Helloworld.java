@@ -22,6 +22,10 @@ public class Helloworld {
          System.out.println("Merge All");
          System.out.println("After");
          System.out.println("After123");
+         
+         //
+         System.out.println("ZZZ");
+          System.out.println("AfterABC");
         
         // TODO code application logic here
     }
