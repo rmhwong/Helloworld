@@ -18,6 +18,7 @@ public class Helloworld {
         System.out.println("Hello"); 
          System.out.println("Hello All");
          System.out.println("Add Branch B1");
+         System.out.println("Merge All");
         
         // TODO code application logic here
     }
