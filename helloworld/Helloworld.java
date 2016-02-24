@@ -15,7 +15,10 @@ public class Helloworld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello"); System.out.println("Hello all");
+        System.out.println("Hello"); 
+         System.out.println("Hello All");
+         System.out.println("Add Brench");
+        
         // TODO code application logic here
     }
     
