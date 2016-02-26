@@ -20,12 +20,7 @@ public class Helloworld {
          System.out.println("Hello All");
          System.out.println("Add Branch B1");
          System.out.println("Merge All");
-         System.out.println("After");
-         System.out.println("After123");
-         
-         //abc
-         System.out.println("ZZZ");
-          System.out.println("AfterABC");
+  
         
         // TODO code application logic here
     }
