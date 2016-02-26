@@ -24,8 +24,7 @@ public class Helloworld {
          System.out.println("After123");
          
          //abc
-         System.out.println("ZZZ");
-          System.out.println("AfterABC");
+
         
         // TODO code application logic here
     }
